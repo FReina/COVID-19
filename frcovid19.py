@@ -5,6 +5,20 @@ import math as m
 import scipy as sp 
 import csv
 
+def confidence_ellipse(x,y,ax,width_coeff=6,**kwargs):
+    """
+    from https://stackoverflow.com/questions/20126061/creating-a-confidence-ellipses-in-a-sccatterplot-using-matplotlib
+    """
+
+    from matplotlib.patches import Ellipse
+    
+    cov = np.cov(x, y)
+    lambda_, v = np.linalg.eig(cov)
+    lambda_ = np.sqrt(lambda_)  
+    ell = Ellipse(xy=(np.mean(x), np.mean(y)),width=lambda_[0]*width_coeff, height=lambda_[1]*width_coeff,angle=np.rad2deg(np.arccos(v[0, 0])),**kwargs)
+
+    return ax.add_patch(ell)
+
 def last_update(dates,language):
     """
     A very short function that prints when the analysis was latest updated.
