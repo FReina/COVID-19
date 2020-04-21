@@ -40,6 +40,14 @@ Tutte le modifiche al progetto, nuove funzionalità e informazioni sono document
 - Aggiunta: "nuovi_positivi" (totale_casi giorno corrente - totale_casi giorno precedente) in "dati_regioni" e "dati_andamento_nazionale"
 - Modifica: Regione "Emilia Romagna" rinominato in "Emilia-Romagna" in "dati-regioni" e "dati-province" ("denominazione_regione")
 
+## 2020-04-20
+
+- Aggiunta: "casi_testati", totale dei soggetti sottoposti al test dal 19/04/2020
+
+## 2020-04-21
+
+- Aggiunta: nuovo shape file con misure di contenimento a livello subregionale (province, comuni e frazioni).
+
 ## Prossimi aggiornamenti
 
 - API Rest (Json)
@@ -47,5 +55,4 @@ Tutte le modifiche al progetto, nuove funzionalità e informazioni sono document
 
 ## Ipotesi modifiche
 
-- Rendere in lingua inglese i dataset e nomi dei campi
 - Cambio codice_regione P.A. Bolzano e P.A. Trento: da 04 a 21 per P.A. Bolzano e da 04 a 22 per P.A. Trento (codice provincia)

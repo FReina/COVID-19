@@ -40,6 +40,14 @@ All changes to the project, new features and information are documented in this 
 - Add: "nuovi_positivi" (totale_casi giorno corrente - totale_casi giorno precedente) in "dati_regioni" and "dati_andamento_nazionale"
 - Change: Regione "Emilia Romagna" renamed to "Emilia-Romagna" in "dati-regioni" and "dati-province" ("denominazione_regione")
 
+## 2020-04-20
+
+- Add: "casi_testati", total number of people tested from 2020-04-19
+
+##  2020-04-21
+
+- Add: new shape file with subregional containment measures (provinces, municipalities and hamlets) with related metadata.
+
 ## Next updated
 
 - API Rest (Json)
@@ -47,5 +55,4 @@ All changes to the project, new features and information are documented in this 
 
 ## hypothesis changes
 
-- Make datasets and field names in eßnglish language
 - Change codice_regione for P.A. Bolzano and P.A. Trento: from 04 to 21 for P.A. Bolzano and from 04 to 22 for P.A. Trento (province code)
