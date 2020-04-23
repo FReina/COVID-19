@@ -98,10 +98,7 @@ def data_loader_nazionali(filename):
                 mese = element[5:7]
                 out[key].append((giorno + '/'+ mese))
             elif key not in ['note_en','note_it','stato']:
-                if element == '':
-                    out[key].append(0) # fix empty entries
-                else:
-                    out[key].append(int(element))
+                out[key].append(int(element))
 
     for key in ['note_en','note_it','stato']:
         out.pop(key)
@@ -128,10 +125,7 @@ def data_loader_region(filename,region_name):
                     mese = content[key][j][5:7]
                     out[key].append((giorno + '/'+ mese))
                 elif key not in ['stato','denominazione_regione','lat','long','note_it','note_en']:
-                    if content[key][j] == '':
-                        out[key].append(0) # fix empty entries
-                    else:
-                        out[key].append(int(content[key][j]))
+                    out[key].append(int((content[key][j])))
     
     for key in ['stato','denominazione_regione','lat','long','note_it','note_en']:
         out.pop(key)
