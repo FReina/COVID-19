@@ -4,6 +4,38 @@ import seaborn as sns
 import math as m 
 import scipy as sp 
 import csv
+from matplotlib import cm
+
+
+class DatiCOVID():
+    #thecolormap = cm.get_cmap('gnuplot2_r',4*complete_weeks+3)
+    #week_no = []
+    def __init__(self,args):
+        self.day = [x for x in range(1,len(args['data']))]
+        self.data = args['data']
+        self.ricoverati_con_sintomi = args['ricoverati_con_sintomi']
+        self.terapia_intensiva = args['terapia_intensiva']
+        self.totale_ospedalizzati = args['totale_ospedalizzati']
+        self.isolamento_domiciliare = args['isolamento_domiciliare']
+        self.totale_positivi = args['totale_positivi']
+        self.variazione_totale_positivi = args['variazione_totale_positivi']
+        self.nuovi_positivi = args['nuovi_positivi']
+        self.dimessi_guariti = args['dimessi_guariti']
+        self.deceduti = args['deceduti']
+        self.totale_casi = args['totale_casi']
+        self.tamponi = args['tamponi']
+        self.casi_testati = args['casi_testati']
+        self.settimana = ['Settimana 1']
+        for i in range(1,len(self.data)):
+           self.settimana.append('Settimana ' + str(m.ceil((i+1)/7)))
+        #self.settimana = settimana
+        self.tamponi_giornalieri = [self.tamponi[0]]
+        for i in range(1,len(self.tamponi)):
+            self.tamponi_giornalieri.append(self.tamponi[i]-self.tamponi[i-1])
+
+    def dati_settimanali(self):
+        masso = (np.vstack([[(self.settimana)],[(self.tamponi_giornalieri)],[(self.nuovi_positivi)]]))
+        return masso
 
 def confidence_ellipse(x,y,ax,width_coeff=6,**kwargs):
     """
