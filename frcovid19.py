@@ -33,9 +33,16 @@ class DatiCOVID():
         for i in range(1,len(self.tamponi)):
             self.tamponi_giornalieri.append(self.tamponi[i]-self.tamponi[i-1])
 
-    def dati_settimanali(self):
-        masso = (np.vstack([[(self.settimana)],[(self.tamponi_giornalieri)],[(self.nuovi_positivi)]]))
-        return masso
+    def dati_settimanali(self,dataset,week):
+        week_string = 'Settimana '+str(week)
+        dati = 0
+        dati = [x for (t,x) in zip(self.settimana,dataset) if t == week_string]
+        return dati
+
+    def totale_settimanale(self,dataset,week):
+        week_string = 'Settimana '+str(week)
+        totale = sum([x for (t,x) in zip(self.settimana,dataset) if t == week_string])
+        return totale
 
 def confidence_ellipse(x,y,ax,width_coeff=6,**kwargs):
     """
@@ -165,7 +172,7 @@ def data_loader_region(filename,region_name):
                     else:
                         out[key].append(int(content[key][j]))
     
-    for key in ['stato','denominazione_regione','lat','long','note_it','note_en']:
+    for key in ['stato','denominazione_regione','lat','long','note_it','note_en','codice_regione']:
         out.pop(key)
     
     return out
