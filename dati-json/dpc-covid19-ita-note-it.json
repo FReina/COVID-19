@@ -670,5 +670,64 @@
         "tipologia_avviso": "correzione dati",
         "avviso": "ricalcolo delle informazioni",
         "note": "ricalcolo 329 decessi (47 di oggi e 282 da riconteggio di aprile)"
+<<<<<<< HEAD
+=======
+    },
+    {
+        "codice": "dc-IT-0018",
+        "data": "2020-05-04T17:00:00",
+        "dataset": "dati-regioni",
+        "stato": "ITA",
+        "codice_regione": 20,
+        "regione": "Sardegna",
+        "codice_provincia": null,
+        "provincia": "",
+        "sigla_provincia": "",
+        "tipologia_avviso": "correzione dati",
+        "avviso": "ricalcolo delle informazioni",
+        "note": "ricalcolo nuovi casi e guariti"
+    },
+    {
+        "codice": "dc-IT-0019",
+        "data": "2020-05-04T17:00:00",
+        "dataset": "dati-andamento-nazionale",
+        "stato": "ITA",
+        "codice_regione": 20,
+        "regione": "Sardegna",
+        "codice_provincia": null,
+        "provincia": "",
+        "sigla_provincia": "",
+        "tipologia_avviso": "correzione dati",
+        "avviso": "ricalcolo delle informazioni",
+        "note": "ricalcolo nuovi casi e guariti"
+    },
+    {
+        "codice": "dc-IT-0020",
+        "data": "2020-05-06T17:00:00",
+        "dataset": "dati-regioni",
+        "stato": "ITA",
+        "codice_regione": 3,
+        "regione": "Lombardia",
+        "codice_provincia": null,
+        "provincia": "",
+        "sigla_provincia": "",
+        "tipologia_avviso": "correzione dati",
+        "avviso": "ricalcolo delle informazioni",
+        "note": "aggiornamento dimessi guariti (aumento)"
+    },
+    {
+        "codice": "dc-IT-0021",
+        "data": "2020-05-06T17:00:00",
+        "dataset": "dati-andamento-nazionale",
+        "stato": "ITA",
+        "codice_regione": 3,
+        "regione": "Lombardia",
+        "codice_provincia": null,
+        "provincia": "",
+        "sigla_provincia": "",
+        "tipologia_avviso": "correzione dati",
+        "avviso": "ricalcolo delle informazioni",
+        "note": "aggiornamento dimessi guariti (aumento)"
+>>>>>>> 44dde7ca11b83b24840315d553018c817698452f
     }
 ]
