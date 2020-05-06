@@ -20,3 +20,5 @@ Thumbs.db
 # Changelog test
 changelog.txt
 __pycache__/frcovid19.cpython-37.pyc
+metadata/covid-19-aree.xml
+.gitignore
