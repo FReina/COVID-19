@@ -109,7 +109,10 @@ def data_loader_generic(filename):
     for i in range(0,len(keys)):
         out[keys[i]] = [];
         for j in range(1,len(content)):
-            out[keys[i]].append(content[j][i])
+            if content[j][0][0] == '2':
+                out[keys[i]].append(content[j][i])
+            else:
+                continue
     
     return keys, out
 
