@@ -58,6 +58,18 @@ All changes to the project, new features and information are documented in this 
 - Integrated README with specifications for the data model of the dataset areas (national and subregional)
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+## 2020-04-27
+
+- Add: update to 26/4/2020 shape file with subregional containment measures (provinces, municipalities and hamlets) with related metadata.
+
+## 2020-05-04
+
+- Add: update at 4/5/2020 shape file with national containment measures according to DPCM 26/4/2020 with related metadata.
+
+
+>>>>>>> master
 ## Next updated
 
 - API Rest (Json)
