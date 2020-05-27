@@ -7,6 +7,20 @@
 ## Avvisi
 
 ```diff
+<<<<<<< HEAD
+=======
+- 25/05/2020: dati Regione Sardegna ricalcolati casi positivi (-2 per falsi positivi della ASSL di Oristano e della ASSL di Sassari)
+- 24/05/2020: dati Regione Lombardia dato persone decedute non aggiornato
+- 19/05/2020: dati Regione Marche ricalcolo casi positivi: -8 (-7 il 17/05/2020 e -1 il 18/05/2020)
+- 18/05/2020: dati P.A. Trento non aggiornati nei casi testati
+- 15/05/2020: dati Regione Lazio 73 nuovi positivi di cui 18 ultime 24/48 ore e 55 da segnalazioni recuperate di casi di marzo, aprile e maggio
+- 14/05/2020: dati Regione Sardegna ricalcolo decessi (+5)
+- 12/05/2020: dati Regione Lombardia aggiunti 419 casi positivi con diagnosi prima
+- 08/05/2020: dati Regione Basilicata ricalcolo casi positivi (diminuzione)
+- 07/05/2020: dati Regione Basilicata ricalcolo casi positivi (diminuzione)
+- 06/05/2020: dati Regione Lombardia aggiornamento dimessi guariti (aumento)
+- 04/05/2020: dati Regione Sardegna ricalcolo nuovi casi e guariti
+>>>>>>> 59e796d5adc083cd3124f2be8a3d0bf13e2782fb
 - 02/05/2020: dati Regione Lombardia ricalcolati 329 decessi (47 di oggi e 282 da riconteggio di aprile)
 - 01/05/2020: dati Regione Lazio ricalcolati 41 decessi (8 nelle ultime 48 ore e 33 ad aprile)
 - 26/04/2020: dati Regione Valle d'Aosta ricalcolati (casi testati)

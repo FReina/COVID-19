@@ -102,7 +102,11 @@
         "data": "2020-03-16T17:00:00",
         "dataset": "dati-regioni",
         "stato": "ITA",
+<<<<<<< HEAD
         "codice_regione": 4,
+=======
+        "codice_regione": 22,
+>>>>>>> 59e796d5adc083cd3124f2be8a3d0bf13e2782fb
         "regione": "P.A. Trento",
         "codice_provincia": null,
         "provincia": "",
@@ -116,7 +120,11 @@
         "data": "2020-03-16T17:00:00",
         "dataset": "dati-andamento-nazionale",
         "stato": "ITA",
+<<<<<<< HEAD
         "codice_regione": 4,
+=======
+        "codice_regione": 22,
+>>>>>>> 59e796d5adc083cd3124f2be8a3d0bf13e2782fb
         "regione": "P.A. Trento",
         "codice_provincia": null,
         "provincia": "",
@@ -354,7 +362,11 @@
         "data": "2020-04-12T17:00:00",
         "dataset": "dati-province",
         "stato": "ITA",
+<<<<<<< HEAD
         "codice_regione": 4,
+=======
+        "codice_regione": 21,
+>>>>>>> 59e796d5adc083cd3124f2be8a3d0bf13e2782fb
         "regione": "P.A. Bolzano",
         "codice_provincia": 21,
         "provincia": "Bolzano",
@@ -368,7 +380,11 @@
         "data": "2020-04-12T17:00:00",
         "dataset": "dati-regioni",
         "stato": "ITA",
+<<<<<<< HEAD
         "codice_regione": 4,
+=======
+        "codice_regione": 21,
+>>>>>>> 59e796d5adc083cd3124f2be8a3d0bf13e2782fb
         "regione": "P.A. Bolzano",
         "codice_provincia": null,
         "provincia": "",
@@ -382,7 +398,11 @@
         "data": "2020-04-12T17:00:00",
         "dataset": "dati-andamento-nazionale",
         "stato": "ITA",
+<<<<<<< HEAD
         "codice_regione": 4,
+=======
+        "codice_regione": 21,
+>>>>>>> 59e796d5adc083cd3124f2be8a3d0bf13e2782fb
         "regione": "P.A. Bolzano",
         "codice_provincia": null,
         "provincia": "",
@@ -728,6 +748,262 @@
         "tipologia_avviso": "correzione dati",
         "avviso": "ricalcolo delle informazioni",
         "note": "aggiornamento dimessi guariti (aumento)"
+<<<<<<< HEAD
 >>>>>>> 44dde7ca11b83b24840315d553018c817698452f
+=======
+    },
+    {
+        "codice": "dc-IT-0022",
+        "data": "2020-05-07T17:00:00",
+        "dataset": "dati-regioni",
+        "stato": "ITA",
+        "codice_regione": 17,
+        "regione": "Basilicata",
+        "codice_provincia": null,
+        "provincia": "",
+        "sigla_provincia": "",
+        "tipologia_avviso": "correzione dati",
+        "avviso": "ricalcolo delle informazioni",
+        "note": "ricalcolo casi positivi (diminuzione)"
+    },
+    {
+        "codice": "dc-IT-0023",
+        "data": "2020-05-07T17:00:00",
+        "dataset": "dati-andamento-nazionale",
+        "stato": "ITA",
+        "codice_regione": 17,
+        "regione": "Basilicata",
+        "codice_provincia": null,
+        "provincia": "",
+        "sigla_provincia": "",
+        "tipologia_avviso": "correzione dati",
+        "avviso": "ricalcolo delle informazioni",
+        "note": "ricalcolo casi positivi (diminuzione)"
+    },
+    {
+        "codice": "dc-IT-0024",
+        "data": "2020-05-07T17:00:00",
+        "dataset": "dati-regioni",
+        "stato": "ITA",
+        "codice_regione": 17,
+        "regione": "Basilicata",
+        "codice_provincia": null,
+        "provincia": "",
+        "sigla_provincia": "",
+        "tipologia_avviso": "correzione dati",
+        "avviso": "ricalcolo delle informazioni",
+        "note": "ricalcolo casi positivi (diminuzione)"
+    },
+    {
+        "codice": "dc-IT-0025",
+        "data": "2020-05-07T17:00:00",
+        "dataset": "dati-andamento-nazionale",
+        "stato": "ITA",
+        "codice_regione": 17,
+        "regione": "Basilicata",
+        "codice_provincia": null,
+        "provincia": "",
+        "sigla_provincia": "",
+        "tipologia_avviso": "correzione dati",
+        "avviso": "ricalcolo delle informazioni",
+        "note": "ricalcolo casi positivi (diminuzione)"
+    },
+    {
+        "codice": "dc-IT-0026",
+        "data": "2020-05-12T17:00:00",
+        "dataset": "dati-regioni",
+        "stato": "ITA",
+        "codice_regione": 3,
+        "regione": "Lombardia",
+        "codice_provincia": null,
+        "provincia": "",
+        "sigla_provincia": "",
+        "tipologia_avviso": "correzione dati",
+        "avviso": "ricalcolo delle informazioni",
+        "note": "aggiunti 419 casi positivi con diagnosi prima degli ultimi 7 giorni"
+    },
+    {
+        "codice": "dc-IT-0027",
+        "data": "2020-05-12T17:00:00",
+        "dataset": "dati-andamento-nazionale",
+        "stato": "ITA",
+        "codice_regione": 3,
+        "regione": "Lombardia",
+        "codice_provincia": null,
+        "provincia": "",
+        "sigla_provincia": "",
+        "tipologia_avviso": "correzione dati",
+        "avviso": "ricalcolo delle informazioni",
+        "note": "aggiunti 419 casi positivi con diagnosi prima degli ultimi 7 giorni"
+    },
+    {
+        "codice": "dc-IT-0028",
+        "data": "2020-05-14T17:00:00",
+        "dataset": "dati-regioni",
+        "stato": "ITA",
+        "codice_regione": 20,
+        "regione": "Sardegna",
+        "codice_provincia": null,
+        "provincia": "",
+        "sigla_provincia": "",
+        "tipologia_avviso": "correzione dati",
+        "avviso": "ricalcolo delle informazioni",
+        "note": "ricalcolo decessi (+5)"
+    },
+    {
+        "codice": "dc-IT-0029",
+        "data": "2020-05-14T17:00:00",
+        "dataset": "dati-andamento-nazionale",
+        "stato": "ITA",
+        "codice_regione": 20,
+        "regione": "Sardegna",
+        "codice_provincia": null,
+        "provincia": "",
+        "sigla_provincia": "",
+        "tipologia_avviso": "correzione dati",
+        "avviso": "ricalcolo delle informazioni",
+        "note": "ricalcolo decessi (+5)"
+    },
+    {
+        "codice": "dc-IT-0030",
+        "data": "2020-05-15T17:00:00",
+        "dataset": "dati-regioni",
+        "stato": "ITA",
+        "codice_regione": 12,
+        "regione": "Lazio",
+        "codice_provincia": null,
+        "provincia": "",
+        "sigla_provincia": "",
+        "tipologia_avviso": "correzione dati",
+        "avviso": "ricalcolo delle informazioni",
+        "note": "73 nuovi positivi di cui 18 nelle ultime 24/48 ore e 55 da segnalazioni recuperate di casi di marzo aprile e maggio"
+    },
+    {
+        "codice": "dc-IT-0031",
+        "data": "2020-05-15T17:00:00",
+        "dataset": "dati-andamento-nazionale",
+        "stato": "ITA",
+        "codice_regione": 12,
+        "regione": "Lazio",
+        "codice_provincia": null,
+        "provincia": "",
+        "sigla_provincia": "",
+        "tipologia_avviso": "correzione dati",
+        "avviso": "ricalcolo delle informazioni",
+        "note": "73 nuovi positivi di cui 18 nelle ultime 24/48 ore e 55 da segnalazioni recuperate di casi di marzo aprile e maggio"
+    },
+    {
+        "codice": "pd-IT-0018",
+        "data": "2020-05-18T17:00:00",
+        "dataset": "dati-regioni",
+        "stato": "ITA",
+        "codice_regione": 22,
+        "regione": "P.A. Trento",
+        "codice_provincia": null,
+        "provincia": "",
+        "sigla_provincia": "",
+        "tipologia_avviso": "dati parziali",
+        "avviso": "comunicazione parziale dei dati",
+        "note": "casi testati non aggiornati"
+    },
+    {
+        "codice": "pd-IT-0019",
+        "data": "2020-05-18T17:00:00",
+        "dataset": "dati-andamento-nazionale",
+        "stato": "ITA",
+        "codice_regione": 22,
+        "regione": "P.A. Trento",
+        "codice_provincia": null,
+        "provincia": "",
+        "sigla_provincia": "",
+        "tipologia_avviso": "dati parziali",
+        "avviso": "comunicazione parziale dei dati",
+        "note": "casi testati non aggiornati"
+    },
+    {
+        "codice": "dc-IT-0032",
+        "data": "2020-05-19T17:00:00",
+        "dataset": "dati-regioni",
+        "stato": "ITA",
+        "codice_regione": 11,
+        "regione": "Marche",
+        "codice_provincia": null,
+        "provincia": "",
+        "sigla_provincia": "",
+        "tipologia_avviso": "correzione dati",
+        "avviso": "ricalcolo delle informazioni",
+        "note": "ricalcolo casi positivi: -8 (-7 il 17/05/2020 e -1 il 18/05/2020)"
+    },
+    {
+        "codice": "dc-IT-0033",
+        "data": "2020-05-19T17:00:00",
+        "dataset": "dati-andamento-nazionale",
+        "stato": "ITA",
+        "codice_regione": 11,
+        "regione": "Marche",
+        "codice_provincia": null,
+        "provincia": "",
+        "sigla_provincia": "",
+        "tipologia_avviso": "correzione dati",
+        "avviso": "ricalcolo delle informazioni",
+        "note": "ricalcolo casi positivi: -8 (-7 il 17/05/2020 e -1 il 18/05/2020)"
+    },
+    {
+        "codice": "pd-IT-0020",
+        "data": "2020-05-24T17:00:00",
+        "dataset": "dati-regioni",
+        "stato": "ITA",
+        "codice_regione": 3,
+        "regione": "Lombardia",
+        "codice_provincia": null,
+        "provincia": "",
+        "sigla_provincia": "",
+        "tipologia_avviso": "dati parziali",
+        "avviso": "comunicazione parziale dei dati",
+        "note": "dato persone decedute non aggiornato"
+    },
+    {
+        "codice": "pd-IT-0021",
+        "data": "2020-05-24T17:00:00",
+        "dataset": "dati-andamento-nazionale",
+        "stato": "ITA",
+        "codice_regione": 3,
+        "regione": "Lombardia",
+        "codice_provincia": null,
+        "provincia": "",
+        "sigla_provincia": "",
+        "tipologia_avviso": "dati parziali",
+        "avviso": "comunicazione parziale dei dati",
+        "note": "dato persone decedute non aggiornato"
+    },
+    {
+        "codice": "dc-IT-0034",
+        "data": "2020-05-25T17:00:00",
+        "dataset": "dati-regioni",
+        "stato": "ITA",
+        "codice_regione": 20,
+        "regione": "Sardegna",
+        "codice_provincia": null,
+        "provincia": "",
+        "sigla_provincia": "",
+        "tipologia_avviso": "correzione dati",
+        "avviso": "ricalcolo delle informazioni",
+        "note": "ricalcolati casi positivi (-2 per falsi positivi della ASSL di Oristano e della ASSL di Sassari)"
+    },
+    {
+        "codice": "dc-IT-0035",
+        "data": "2020-05-25T17:00:00",
+        "dataset": "dati-andamento-nazionale",
+        "stato": "ITA",
+        "codice_regione": 20,
+        "regione": "Sardegna",
+        "codice_provincia": null,
+        "provincia": "",
+        "sigla_provincia": "",
+        "tipologia_avviso": "correzione dati",
+        "avviso": "ricalcolo delle informazioni",
+        "note": "ricalcolati casi positivi (-2 per falsi positivi della ASSL di Oristano e della ASSL di Sassari)"
+>>>>>>> 59e796d5adc083cd3124f2be8a3d0bf13e2782fb
+>>>>>>> master
     }
 ]

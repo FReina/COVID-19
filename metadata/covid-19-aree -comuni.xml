@@ -22,7 +22,11 @@
                         <gco:CharacterString>PCM - Dipartimento della protezionecivile</gco:CharacterString>
 =======
                         <gco:CharacterString>PCM - Dipartimento della protezione civile</gco:CharacterString>
+<<<<<<< HEAD
 >>>>>>> 44dde7ca11b83b24840315d553018c817698452f
+=======
+>>>>>>> 59e796d5adc083cd3124f2be8a3d0bf13e2782fb
+>>>>>>> master
                         <gmd:PT_FreeText>
                            <gmd:textGroup>
                               <gmd:LocalisedCharacterString locale="#locale-en">PCM - Department of Civil Protection</gmd:LocalisedCharacterString>
@@ -121,7 +125,11 @@
 								<gco:Date>2020-04-20</gco:Date>
 =======
 								<gco:Date>2020-05-03</gco:Date>
+<<<<<<< HEAD
 >>>>>>> 44dde7ca11b83b24840315d553018c817698452f
+=======
+>>>>>>> 59e796d5adc083cd3124f2be8a3d0bf13e2782fb
+>>>>>>> master
 							</gmd:date>
 							<gmd:dateType>
 								<gmd:CI_DateTypeCode codeSpace="ISOTC211/19115" codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="revision">revision</gmd:CI_DateTypeCode>
@@ -142,7 +150,11 @@
                         <gco:CharacterString>PCM - Dipartimento della protezionecivile</gco:CharacterString>
 =======
                         <gco:CharacterString>PCM - Dipartimento della protezione civile</gco:CharacterString>
+<<<<<<< HEAD
 >>>>>>> 44dde7ca11b83b24840315d553018c817698452f
+=======
+>>>>>>> 59e796d5adc083cd3124f2be8a3d0bf13e2782fb
+>>>>>>> master
                         <gmd:PT_FreeText>
                            <gmd:textGroup>
                               <gmd:LocalisedCharacterString locale="#locale-en">PCM - Department of Civil Protection</gmd:LocalisedCharacterString>
@@ -179,7 +191,11 @@
                         <gco:CharacterString>PCM - Dipartimento della protezionecivile</gco:CharacterString>
 =======
                         <gco:CharacterString>PCM - Dipartimento della protezione civile</gco:CharacterString>
+<<<<<<< HEAD
 >>>>>>> 44dde7ca11b83b24840315d553018c817698452f
+=======
+>>>>>>> 59e796d5adc083cd3124f2be8a3d0bf13e2782fb
+>>>>>>> master
                         <gmd:PT_FreeText>
                            <gmd:textGroup>
                               <gmd:LocalisedCharacterString locale="#locale-en">PCM - Department of Civil Protection</gmd:LocalisedCharacterString>
@@ -244,7 +260,11 @@
                         <gco:CharacterString>PCM - Dipartimento della protezionecivile</gco:CharacterString>
 =======
                         <gco:CharacterString>PCM - Dipartimento della protezione civile</gco:CharacterString>
+<<<<<<< HEAD
 >>>>>>> 44dde7ca11b83b24840315d553018c817698452f
+=======
+>>>>>>> 59e796d5adc083cd3124f2be8a3d0bf13e2782fb
+>>>>>>> master
                         <gmd:PT_FreeText>
                            <gmd:textGroup>
                               <gmd:LocalisedCharacterString locale="#locale-en">PCM - Department of Civil Protection</gmd:LocalisedCharacterString>
@@ -484,7 +504,11 @@
                         <gco:CharacterString>PCM - Dipartimento della protezionecivile</gco:CharacterString>
 =======
                         <gco:CharacterString>PCM - Dipartimento della protezione civile</gco:CharacterString>
+<<<<<<< HEAD
 >>>>>>> 44dde7ca11b83b24840315d553018c817698452f
+=======
+>>>>>>> 59e796d5adc083cd3124f2be8a3d0bf13e2782fb
+>>>>>>> master
                         <gmd:PT_FreeText>
                            <gmd:textGroup>
                               <gmd:LocalisedCharacterString locale="#locale-en">PCM - Department of Civil Protection</gmd:LocalisedCharacterString>

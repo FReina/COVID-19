@@ -1,6 +1,10 @@
 <img src="http://opendatadpc.maps.arcgis.com/sharing/rest/content/items/5c8ef7516b5b4bb19f61037b4cd69015/data" alt="COVID-19" data-canonical-src="http://opendatadpc.maps.arcgis.com/sharing/rest/content/items/5c8ef7516b5b4bb19f61037b4cd69015/data" width="400" />
 
 [Italiano](README.md) - [English](README_EN.md)<br><br>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> master
 
 # Dati COVID-19 Italia
 
@@ -14,7 +18,15 @@
 >>>>>>> 44dde7ca11b83b24840315d553018c817698452f
 
 [Sito del Dipartimento della Protezione Civile - Emergenza Coronavirus: la risposta nazionale](http://www.protezionecivile.it/attivita-rischi/rischio-sanitario/emergenze/coronavirus)
+=======
 
+# Dati COVID-19 Italia
+>>>>>>> 59e796d5adc083cd3124f2be8a3d0bf13e2782fb
+
+[![GitHub license](https://img.shields.io/badge/License-Creative%20Commons%20Attribution%204.0%20International-blue)](https://github.com/pcm-dpc/COVID-19/blob/master/LICENSE)
+[![GitHub commit](https://img.shields.io/github/last-commit/pcm-dpc/COVID-19)](https://github.com/pcm-dpc/COVID-19/commits/master)
+ 
+[Sito del Dipartimento della Protezione Civile - Emergenza Coronavirus: la risposta nazionale](http://www.protezionecivile.it/attivita-rischi/rischio-sanitario/emergenze/coronavirus)
 
 Il 31 gennaio 2020, il Consiglio dei Ministri dichiara lo stato di emergenza, per la durata di sei mesi, in conseguenza del rischio sanitario connesso all'infezione da Coronavirus.
 
@@ -83,6 +95,13 @@ COVID-19/
 │   ├── dpc-covid19-ita-regioni-*.csv
 │   ├── dpc-covid19-ita-regioni-latest.csv
 │   ├── dpc-covid19-ita-regioni.csv
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+├── data-legacy
+>>>>>>> 59e796d5adc083cd3124f2be8a3d0bf13e2782fb
+>>>>>>> master
 ├── note/
 │   ├── dpc-covid19-ita-note-en.csv
 │   ├── dpc-covid19-ita-note-it.csv
@@ -97,12 +116,21 @@ COVID-19/
 
 - Dati andamento COVID-19 Italia: ogni giorno alle 18:00<br>
 - Dati contratti DPC COVID-19 di fornitura: continua (ogni volta che vengono effettuate operazioni sui contratti)
+<<<<<<< HEAD
 
 ## Formato dei dati
 
 - [Dati andamento COVID-19 Italia](dati-andamento-covid19-italia.md)<br>
 - [Dati contratti DPC COVID-19 di fornitura](dati-contratti-dpc-covid19-fornitura.md)
 - [Dati aree misure restrittive COVID19](dati_aree-nazionali-subregionali-misure-restrittive-covid19.md)
+=======
+
+## Formato dei dati
+
+- [Dati andamento COVID-19 Italia](dati-andamento-covid19-italia.md)<br>
+- [Dati contratti DPC COVID-19 di fornitura](dati-contratti-dpc-covid19-fornitura.md)
+- [Dati aree misure restrittive COVID19](dati-aree-covid19.md)
+>>>>>>> 59e796d5adc083cd3124f2be8a3d0bf13e2782fb
 
 ## Licenza
 

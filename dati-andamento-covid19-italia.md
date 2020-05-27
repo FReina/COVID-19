@@ -17,7 +17,11 @@
 
 | Nome campo                  | Descrizione                       | Description                            | Formato                       | Esempio             |
 |-----------------------------|-----------------------------------|----------------------------------------|-------------------------------|---------------------|
+<<<<<<< HEAD
 | **data**                        | Data dell'informazione            | Date of notification                   | YYYY-MM-DD HH:MM:SS (ISO 8601) Ora italiana | 2020-03-05 12:15:45 |
+=======
+| **data**                        | Data dell'informazione            | Date of notification                   | YYYY-MM-DDTHH:MM:SS (ISO 8601) Ora italiana | 2020-03-05T12:15:45 |
+>>>>>>> 59e796d5adc083cd3124f2be8a3d0bf13e2782fb
 | **stato**                       | Stato di riferimento              | Country of reference                   | XYZ (ISO 3166-1 alpha-3)      | ITA                 |
 | **codice_regione**              | Codice della Regione (ISTAT 2019) | Code of the Region (ISTAT 2019)        | Numero                        | 13                  |
 | **denominazione_regione**       | Denominazione della Regione       | Name of the Region                     | Testo                         | Abruzzo             |
@@ -125,4 +129,8 @@ Scheda metadati RNDT: [dati](https://geodati.gov.it/geoportale/visualizzazione-m
 Temi del dataset: [Salute umana e sicurezza](http://inspire.ec.europa.eu/theme/hh) - [Human health and safety (Inspire)](http://inspire.ec.europa.eu/theme/hh)<br>
 Categoria ISO 19115: Salute<br>
 Dati forniti dal Ministero della Salute<br>
+<<<<<<< HEAD
 Elaborazione e gestione dati a cura del Dipartimento della Protezione Civile
+=======
+Elaborazione e gestione dati a cura del Dipartimento della Protezione Civile
+>>>>>>> 59e796d5adc083cd3124f2be8a3d0bf13e2782fb

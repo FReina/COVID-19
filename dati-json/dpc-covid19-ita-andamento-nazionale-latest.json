@@ -2,6 +2,7 @@
     {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "data": "2020-05-02T17:00:00",
         "stato": "ITA",
         "ricoverati_con_sintomi": 17357,
@@ -37,6 +38,8 @@
         "note_en": "dc-EN-0021"
 >>>>>>> 44dde7ca11b83b24840315d553018c817698452f
 =======
+=======
+>>>>>>> master
         "data": "2020-05-03T17:00:00",
         "stato": "ITA",
         "ricoverati_con_sintomi": 17242,
@@ -51,8 +54,27 @@
         "totale_casi": 210717,
         "tamponi": 2153772,
         "casi_testati": 1456911,
+=======
+        "data": "2020-05-26T17:00:00",
+        "stato": "ITA",
+        "ricoverati_con_sintomi": 7917,
+        "terapia_intensiva": 521,
+        "totale_ospedalizzati": 8438,
+        "isolamento_domiciliare": 44504,
+        "totale_positivi": 52942,
+        "variazione_totale_positivi": -2358,
+        "nuovi_positivi": 397,
+        "dimessi_guariti": 144658,
+        "deceduti": 32955,
+        "totale_casi": 230555,
+        "tamponi": 3539927,
+        "casi_testati": 2253252,
+>>>>>>> 59e796d5adc083cd3124f2be8a3d0bf13e2782fb
         "note_it": "",
         "note_en": ""
+<<<<<<< HEAD
+>>>>>>> master
+=======
 >>>>>>> master
     }
 ]
